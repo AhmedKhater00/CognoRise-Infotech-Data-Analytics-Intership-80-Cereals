@@ -56,7 +56,7 @@ The analysis involved the following steps:
 ![Criteria for High Nutritional Value](https://github.com/AhmedKhater00/CognoRise-Infotech-Data-Analytics-Intership-80-Cereals/blob/main/Criteria%20for%20High%20Nutritional%20Value.png)
 
 ### Nutritional Values by Manufacturer
-![Nutritional Values by Manufacturer]()
+![Nutritional Values by Manufacturer](https://github.com/AhmedKhater00/CognoRise-Infotech-Data-Analytics-Intership-80-Cereals/blob/main/Nutritional%20Values%20by%20Manufacturer.png)
 
 ### Sugar Content Analysis
 ![Sugar Content](https://github.com/AhmedKhater00/CognoRise-Infotech-Data-Analytics-Intership-80-Cereals/blob/main/Sugar%20Content.png)
@@ -77,7 +77,7 @@ The analysis involved the following steps:
 ![Sodium Content vs. Ratings](https://github.com/AhmedKhater00/CognoRise-Infotech-Data-Analytics-Intership-80-Cereals/blob/main/Sodium%20Content%20vs.%20Ratings.png)
 
 ### Manufacturer and Average Rating
-![Manufacturer and Average Rating]()
+![Manufacturer and Average Rating](https://github.com/AhmedKhater00/CognoRise-Infotech-Data-Analytics-Intership-80-Cereals/blob/main/Manufacturer%20and%20Average%20Rating.png )
 
 ### Histogram of Calories
 ![Histogram of Calories](https://github.com/AhmedKhater00/CognoRise-Infotech-Data-Analytics-Intership-80-Cereals/blob/main/Histogram%20of%20Calories.png)
@@ -89,7 +89,7 @@ The analysis involved the following steps:
 ![Line Plot for Average Calories by Cups](https://github.com/AhmedKhater00/CognoRise-Infotech-Data-Analytics-Intership-80-Cereals/blob/main/Line%20Plot%20for%20Average%20Calories%20by%20Cups.png)
 
 ### Pair Plot to Visualize Relationships Among All Numerical Features
-![Pair Plot]()
+![Pair Plot](https://github.com/AhmedKhater00/CognoRise-Infotech-Data-Analytics-Intership-80-Cereals/blob/main/Pair%20Plot.png)
 
 ### Geospatial Mapping with Folium
 ![Geospatial Mapping](https://github.com/AhmedKhater00/CognoRise-Infotech-Data-Analytics-Intership-80-Cereals/blob/main/Geospatial%20Mapping.png)
