@@ -53,49 +53,46 @@ The analysis involved the following steps:
 
 ## Analysis
 ### Criteria for High Nutritional Value
-![Criteria for High Nutritional Value](link_to_high_nutritional_value_plot)
+![Criteria for High Nutritional Value](https://github.com/AhmedKhater00/CognoRise-Infotech-Data-Analytics-Intership-80-Cereals/blob/main/Criteria%20for%20High%20Nutritional%20Value.png)
 
 ### Nutritional Values by Manufacturer
-![Nutritional Values by Manufacturer](link_to_nutritional_values_by_manufacturer_plot)
+![Nutritional Values by Manufacturer]()
 
 ### Sugar Content Analysis
-![Sugar Content](link_to_sugar_content_plot)
+![Sugar Content](https://github.com/AhmedKhater00/CognoRise-Infotech-Data-Analytics-Intership-80-Cereals/blob/main/Sugar%20Content.png)
 
 ### Relationship Between Serving Size and Calories
-![Serving Size vs. Calories](link_to_serving_size_vs_calories_plot)
+![Serving Size vs. Calories](https://github.com/AhmedKhater00/CognoRise-Infotech-Data-Analytics-Intership-80-Cereals/blob/main/Serving%20Size%20vs.%20Calories.png)
 
 ### Impact of Shelf Placement on Cereal Ratings
-![Shelf Placement vs. Ratings](link_to_shelf_placement_vs_ratings_plot)
+![Shelf Placement vs. Ratings](https://github.com/AhmedKhater00/CognoRise-Infotech-Data-Analytics-Intership-80-Cereals/blob/main/Shelf%20Placement%20vs.%20Ratings.png)
 
 ### Cereals High in Fiber but Low in Calories
-![High Fiber and Low Calories](link_to_high_fiber_low_calories_plot)
+![High Fiber and Low Calories](https://github.com/AhmedKhater00/CognoRise-Infotech-Data-Analytics-Intership-80-Cereals/blob/main/High%20Fiber%20and%20Low%20Calories.png)
 
 ### Cereals with More Vitamins and Ratings
-![Vitamins vs. Ratings](link_to_vitamins_vs_ratings_plot)
+![Vitamins vs. Ratings](https://github.com/AhmedKhater00/CognoRise-Infotech-Data-Analytics-Intership-80-Cereals/blob/main/Vitamins%20vs.%20Ratings.png)
 
 ### Relationship Between Sodium Content and Cereal Ratings
-![Sodium Content vs. Ratings](link_to_sodium_content_vs_ratings_plot)
-
-### Cereals Most Suitable for Children (Low Sugar, High Vitamins)
-![Child-Friendly Cereals](link_to_child_friendly_cereals_plot)
+![Sodium Content vs. Ratings](https://github.com/AhmedKhater00/CognoRise-Infotech-Data-Analytics-Intership-80-Cereals/blob/main/Sodium%20Content%20vs.%20Ratings.png)
 
 ### Manufacturer and Average Rating
-![Manufacturer and Average Rating](link_to_manufacturer_average_rating_plot)
+![Manufacturer and Average Rating]()
 
 ### Histogram of Calories
-![Histogram of Calories](link_to_histogram_of_calories_plot)
+![Histogram of Calories](https://github.com/AhmedKhater00/CognoRise-Infotech-Data-Analytics-Intership-80-Cereals/blob/main/Histogram%20of%20Calories.png)
 
 ### Box Plot of Calories by Cups
-![Box Plot of Calories by Cups](link_to_box_plot_calories_by_cups)
+![Box Plot of Calories by Cups](https://github.com/AhmedKhater00/CognoRise-Infotech-Data-Analytics-Intership-80-Cereals/blob/main/Box%20Plot%20of%20Calories%20by%20Cups.png)
 
 ### Line Plot for Average Calories by Cups
-![Line Plot for Average Calories by Cups](link_to_line_plot_average_calories_by_cups)
+![Line Plot for Average Calories by Cups](https://github.com/AhmedKhater00/CognoRise-Infotech-Data-Analytics-Intership-80-Cereals/blob/main/Line%20Plot%20for%20Average%20Calories%20by%20Cups.png)
 
 ### Pair Plot to Visualize Relationships Among All Numerical Features
-![Pair Plot](link_to_pair_plot)
+![Pair Plot]()
 
 ### Geospatial Mapping with Folium
-![Geospatial Mapping](link_to_geospatial_mapping_plot)
+![Geospatial Mapping](https://github.com/AhmedKhater00/CognoRise-Infotech-Data-Analytics-Intership-80-Cereals/blob/main/Geospatial%20Mapping.png)
 
 ## Key Insights
 - Some manufacturers consistently produce cereals with lower sugar and higher nutritional value.
@@ -124,4 +121,8 @@ This analysis sheds light on the nutritional landscape of popular cereals, highl
 - Investigating the long-term health impacts of cereal consumption patterns.
 
 ## Contact
-For more information or inquiries, please reach out to [Ahmed Khater](https://www.linkedin.com/in/ahmed-khater-1bb2a324a).
+For further inquiries or collaboration, please reach out to:
+
+**Name**: Ahmed Abd Elmonem Ahmed Khater  
+**Email**: khatermedo664@gmail.com  
+**LinkedIn**: [Ahmed Khater](https://www.linkedin.com/in/ahmed-khater-1bb2a324a)  
